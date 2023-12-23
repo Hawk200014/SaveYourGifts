@@ -42,24 +42,47 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
+  <summary>Structure of the Projekt</summary>
+  <ul>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#english">English Documentation</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>
+          <a href="#about-the-project">About The Project</a>
+          <ul>
+            <li><a href="#built-with">Built With</a></li>
+          </ul>
+        </li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#license">License</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
+    <li>
+      <a href="#german">Deutsche Dokumentation</a>
+      <ul>
+        <li>
+          <a href="#ueber-das-projekt">Ueber das Projekt</a>
+          <ul>
+            <li><a href="#gebaut-mit">Gebaut Mit</a></li>
+          </ul>
+        </li>
+        <li><a href="#nutzung">Nutzung</a></li>
+        <li><a href="#features-de">Features</a></li>
+        <li><a href="#lizenz">Lizenz</a></li>
+      </ul>
+    </li>
+  </ul>
+  
+  
 </details>
 
 
+<!-- English -->
+## English
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
@@ -87,16 +110,16 @@ The app allows you to take quick nodes about gift ideas for friends an family, s
 
 ### Installation
 
-1. Get the app from the google play store (in the future)
+1. Plan for the future is the installation with the google play store.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
-In the working
+In progress
 
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
@@ -105,7 +128,7 @@ In the working
 
 
 <!-- ROADMAP -->
-## Roadmap
+### Roadmap
 
 - [ ] add members to the app
 - [ ] save gifts the a spezific members
@@ -117,12 +140,79 @@ See the [open issues](https://github.com/Hawk200014/SaveYourGifts/issues) for a 
 
 
 <!-- LICENSE -->
-## License
+### License
 
-In the work
+In progress
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Deutsch
+
+### Ueber das Projekt
+
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+
+Wie oft sucht man 
+How often did you forget a birthday of a friend and struggle to find a nice gift for him / her?<br />
+The app allows you to take quick nodes about gift ideas for friends an family, so that you never have the struggle again to find a nice gift.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Features
+<a href="#features-de"/>
+
+- add friends and family members to the app
+- save gift ideas to friends
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Installation
+
+1. Plan for the future is the installation with the google play store.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+### Usage
+
+In progress
+
+<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+### Roadmap
+
+- [ ] add members to the app
+- [ ] save gifts the a spezific members
+- [ ] add important dates to members
+
+See the [open issues](https://github.com/Hawk200014/SaveYourGifts/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+### License
+
+In progress
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
